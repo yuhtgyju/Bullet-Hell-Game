@@ -27,7 +27,7 @@ Compiled with SFML version 2.6.1;
 Do NOT move the "assets" folder, nor delete it. As without it the game will NOT run, It contains all important files apart from the ones WITH the executable; (only for people who use the precompiled one.)
 
 # For Modders/Other Developers
-You can mod my game if you'd like, I actually think it'd be cool to see some mods, maybe in a later version I'll make modding more accessable by adding a "mods" folder or smth. For now you can recompile the game with any new or less code you'd like. Have fun!
+You can mod my game if you'd like, I actually think it'd be cool to see some mods, maybe in a later version I'll make modding more accessable by adding a "mods" folder or smth. also make sure to follow the [License](LICENSE).
 
 ## Licenses
 This project is licensed under "The Legend Of Azure Proprietary License Agreement." See the [LICENSE](LICENSE) file for details.
