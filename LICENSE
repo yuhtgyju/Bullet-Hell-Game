@@ -1,44 +1,104 @@
 The Legend Of Azure Proprietary License Agreement
 
-1. Grant of License
-This license grants the user ("You") a non-exclusive, non-transferable, revocable right to install and use The Legend Of Azure ("the Software") solely for personal or authorized commercial use. 
+1. Definitions
 
-2. Modding Policy
-- You are allowed to create and distribute modifications ("mods") for the Software, provided that:
-  - All mods must be free and publicly available.
-  - Mods may not be sold, monetized, or paywalled, whether directly or through platforms such as Patreon or other subscription-based services.
-  - Mods must not require donations or any form of financial exchange for access.
-  - Mods must not infringe upon the intellectual property of Dominic Bo Kamden Storms or any third parties.
+- "You": The licensee, i.e., the user of the Software.
+- "Software": Refers to The Legend Of Azure.
+- "Mods": Any modifications, derivative works, or adaptations of the Software created by You.
+- "Authorized Commercial Use": Any commercial use of the Software for which You have obtained prior written approval from Dominic Bo Kamden Storms (unless otherwise specified herein).
+- "Dominic Bo Kamden Storms": The original creator and owner of the Software.
 
-3. Source Code Availability
-- The source code of the Software is publicly available, and users are allowed to view, modify, and distribute modified versions under the following conditions:
-  - Any modifications must retain this license and credit Dominic Bo Kamden Storms as the original creator.
-  - Modified versions must also remain free and publicly available.
-  - You may not claim ownership of the original Software or any of its core components.
+---
 
-4. Restrictions
-- You may not sublicense, rent, lease, or resell the Software or its modifications.
+2. Grant of License
+   Dominic Bo Kamden Storms hereby grants You a non-exclusive, non-transferable, and revocable license to install and use the Software solely for personal or Authorized Commercial Use.
+
+---
+
+3. Modding Policy
+
+- You are allowed to create and distribute Mods for the Software under the following conditions:
+  - Free and Public Availability: All Mods must be available free of charge and accessible to the public without any mandatory financial exchange.
+  - No Monetization: Mods may not be sold, monetized, or paywalled—either directly or indirectly via platforms such as Patreon or other subscription-based services.
+  - Donations: While voluntary donations are permitted, they must not be a requirement for accessing the Mods.
+  - IP Rights: Mods must not infringe upon the intellectual property rights of Dominic Bo Kamden Storms or any third parties.
+  - License Retention: All Mods must include this License and appropriate credit to Dominic Bo Kamden Storms.
+
+---
+
+4. Source Code Availability
+
+- The source code of the Software is publicly available. In reviewing, modifying, or distributing any modified versions, You agree to:
+  - License Retention: Retain this License and credit Dominic Bo Kamden Storms as the original creator.
+  - Continued Free Access: Ensure that any modified versions remain free and publicly available.
+  - No Ownership Claims: Not claim ownership of the original Software or any of its core components.
+  - Version Consistency: Indicate that modifications are governed by the version of this License in effect at the time of modification, unless otherwise stated.
+
+---
+
+5. Restrictions
+
+- You may not sublicense, rent, lease, or resell the Software or any Mods.
 - You may not remove or alter any copyright, trademark, or proprietary notices.
 
-5. Ownership & Developer Rights
-The Software and all associated intellectual property rights remain the sole property of Dominic Bo Kamden Storms. However, as the developer, Dominic Bo Kamden Storms retains the unrestricted right to modify, distribute, and use the Software in any manner, including but not limited to selling, licensing, or making derivative works. This clause ensures that Dominic Bo Kamden Storms cannot inadvertently violate this license or take legal action against themselves.
+---
 
-6. Disclaimer of Warranty
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. Dominic Bo Kamden Storms DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+6. Ownership & Developer Rights
 
-7. Limitation of Liability
-IN NO EVENT SHALL Dominic Bo Kamden Storms BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+- The Software and all associated intellectual property rights remain the sole property of Dominic Bo Kamden Storms.
+- As the developer, Dominic Bo Kamden Storms retains the unrestricted right to modify, distribute, or otherwise use the Software in any manner—including selling, licensing, or creating derivative works. This clause ensures that no legal action can be taken by or against Dominic Bo Kamden Storms regarding the Software's use.
 
-8. Termination
-This license is effective until terminated. Dominic Bo Kamden Storms reserves the right to terminate this license at any time if You violate its terms. Upon termination, You must cease all use of the Software and delete all copies in your possession.
+---
 
-9. Governing Law
-This Agreement shall be governed and construed under the laws of Kentucky, without regard to conflicts of law principles.
+7. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, ARE EXPRESSLY DISCLAIMED.
 
-10. Updates and Modifications
-Dominic Bo Kamden Storms reserves the right to update or modify this license agreement at any time. Continued use of the Software after such changes constitutes acceptance of the new terms.
+---
 
-11. Contact Information
-For any inquiries regarding this license, contact: yuhtgyju@gmail.com or yuhtgyjuplays@gmail.com.
+8. Limitation of Liability
+   IN NO EVENT SHALL DOMINIC BO KAMDEN STORMS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-By installing or using the Software, You agree to the terms of this license.
+---
+
+9. Indemnification
+   You agree to indemnify and hold harmless Dominic Bo Kamden Storms from any claims, damages, or liabilities arising from your use of the Software or any violation of this License.
+
+---
+
+10. Termination
+
+- This License is effective until terminated. Dominic Bo Kamden Storms reserves the right to terminate this License immediately if You violate any of its terms.
+- Upon termination, You must cease all use of the Software and delete all copies in your possession.
+- Notification: Termination may be communicated via email or through an in-software notice. While no prior warning is required, Dominic Bo Kamden Storms may, at their discretion, offer a chance to remedy minor violations.
+
+---
+
+11. Governing Law and Dispute Resolution
+
+- This Agreement shall be governed by and construed under the laws of the Commonwealth of Kentucky, without regard to its conflict of law principles.
+- Any disputes arising from this Agreement shall be resolved through binding arbitration in accordance with the rules of a mutually agreed-upon arbitration body (for example, the American Arbitration Association), with proceedings held in Kentucky, unless otherwise agreed in writing.
+
+---
+
+12. Updates and Modifications to the License
+
+- Dominic Bo Kamden Storms reserves the right to update or modify this License at any time.
+- Continued use of the Software after such changes constitutes acceptance of the new terms.
+- Communication: Updates to the License will be communicated via the Software’s official website, email, or other appropriate methods.
+- Applicability: Unless explicitly stated, modifications apply only to future distributions of the Software and do not retroactively affect previously distributed versions.
+
+---
+
+13. Severability
+    If any provision of this Agreement is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions shall continue in full force and effect.
+
+---
+
+14. Contact Information
+    For any inquiries regarding this License, please contact:
+
+- Email: yuhtgyju@gmail.com or yuhtgyjuplays@gmail.com
+
+---
+
+By installing or using the Software, You agree to be bound by the terms of this License Agreement.
