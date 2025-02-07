@@ -9,12 +9,14 @@ Left Click to shoot;
 
 LShift to sprint;
 
+M to stop/start the music;
+
 secret debug key;
 
 ## Current State
 Alpha;
 
-This is version 1.0.0;
+This is version 1.0.1;
 
 ## Important Info
 This was compiled on Windows and has not been tested on Mac or Linux;
