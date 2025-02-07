@@ -32,4 +32,4 @@ You can mod my game if you'd like, I actually think it'd be cool to see some mod
 ## Licenses
 This project is licensed under "The Legend Of Azure Proprietary License Agreement." See the [LICENSE](LICENSE) file for details.
 
-This project also uses the SFML library, which is licensed under the zlib/png license. See the [LICENSE_SFML.txt](LICENSE_SFML.txt) file for details.
+This project also uses the SFML library, which is licensed under the zlib/png license. You can find the full text of the SFML license in the [LICENSE_SFML.txt](LICENSE_SFML.txt) file, or visit the [SFML website](https://www.sfml-dev.org/license.php) for more information.
